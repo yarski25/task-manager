@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Make a copies of documents",
+      "day": "December 10th at 1:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Take a lunch break",
+      "day": "December 10th at 2:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Play game",
+      "day": "December 10th at 3:00 pm",
+      "reminder": true
+    },
+    {
+      "text": "Go to sleep",
+      "day": "December 19th at 1:00 am",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
