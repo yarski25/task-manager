@@ -49,6 +49,8 @@ Full-stack app is based on two different front-end frameworks:
 
 Back-end server is done with [json-server](https://www.npmjs.com/package/json-server)
 
+[![RestfulAPI][Restfulapi.net]][Restfulapi-url]
+
 Another frameworks/libraries used in project:
 
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -111,3 +113,5 @@ Another frameworks/libraries used in project:
 [Bootstrap-url]: https://getbootstrap.com
 [Typescriptlang.org]: https://img.shields.io/badge/typescript-3399FF?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
+[Restfulapi.net]: https://img.shields.io/badge/Rest-api-20232A?style=for-the-badge&logo=rest-api&logoColor=61DAFB
+[Restfulapi-url]: https://restfulapi.net/
